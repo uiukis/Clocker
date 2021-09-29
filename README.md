@@ -1,4 +1,4 @@
-# Semana Full Stack Sem Custo, da Codar.me!
+# Clocker
 
 ![Logo Semana Full Stack sem custo](./docs/semana-logo.png)
 
